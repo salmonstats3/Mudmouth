@@ -6,7 +6,7 @@ func installVPN(_ completion: @escaping (_ error: Error?) -> Void) {
     let manager = NETunnelProviderManager()
     manager.localizedDescription = "Mudmouth"
     let proto = NETunnelProviderProtocol()
-    proto.providerBundleIdentifier = "name.sketch.Mudmouth.PacketTunnel"
+    proto.providerBundleIdentifier = "work.tkgstrator.proxy.PacketTunnel"
     proto.serverAddress = "Mudmouth"
     manager.protocolConfiguration = proto
     manager.isEnabled = true

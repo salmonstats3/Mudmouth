@@ -8,7 +8,7 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.name.sketch.Mudmouth</string>
+		<string>group.work.tkgstrator.proxy</string>
 	</array>
 </dict>
 </plist>
