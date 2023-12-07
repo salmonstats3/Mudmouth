@@ -6,9 +6,9 @@ Mudmouth is a network diagnostic tool for capturing secure requests on iOS.
 
 - TestFlight
   - Comming soon
-- (TrollStore)[apple-magnifier://install?url=https://github.com/salmonstats3/Mudmouth/releases/download/0.1.0/Mudmouth_signed.ipa]
+- [TrollStore](apple-magnifier://install?url=https://github.com/salmonstats3/Mudmouth/releases/download/0.1.0/Mudmouth_signed.ipa)
   - Required [TrollStore](https://github.com/opa334/TrollStore)
-- (Sideloadly)[https://sideloadly.io/]
+- [Sideloadly](https://sideloadly.io/)
 
 ## Usage
 
